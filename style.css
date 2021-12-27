@@ -1,0 +1,166 @@
+body{
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.top-h1{
+    font-size: 40px;
+}
+
+.top-h2{
+    font-size: 60px;
+    color: rgb(184, 128, 236);
+}
+
+.top-p{
+    font-size: 23px;
+    padding-bottom: 30px;
+}
+
+.first-sec-first-div{
+    width: 45%;
+    float: left;
+    margin-left: 5px;
+    padding-left: 100px;
+    padding-top: 90px;
+
+}
+
+.top-image{
+    width: 30%;
+    padding-left: 130px;
+}
+
+.first-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(134, 167, 236) , lime);
+    font-size: 22px;
+    border-radius: 10px;
+    padding: 8px 12px;
+    color: white;
+}
+
+.first-part{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+}
+
+section{
+    height: 500px;
+}
+
+.second-image{
+    width: 450px;
+    padding-left: 100px;
+    float: left;
+}
+
+.sec-sec-sec-div{
+    float: right;
+    width: 40%;
+    padding-right: 150px;
+    padding-top: 120px;
+}
+
+.sec-sec-sec-div-h1{
+    font-size: 40px;
+    color: rgb(4, 31, 29);
+    font-weight: 500;
+}
+
+.sec-sec-sec-div-p{
+    font-size: 21px;
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+
+.second-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(134, 167, 236) , lime);
+    font-size: 22px;
+    border-radius: 10px;
+    padding: 8px 12px;
+    color: white;
+}
+
+.second-part{
+    background-image: url("personal-website/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.last-section{
+    padding-top: 200px;
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.last-sec-h1{
+    font-size: 40px;
+    text-align: center;
+    font-weight: 300;
+}
+
+.last-sec-first-div{
+    padding-bottom: 60px;
+}
+
+.img-1{
+    width: 380px;
+    padding-left: 100px;
+
+}
+
+.img-2{
+    width: 380px;
+    padding-left: 70px;
+}
+
+.img-3{
+    width: 380px;
+    padding-left: 70px;
+}
+
+.footer-div-1{
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.footer-div-1-h1{
+    font-size: 35px;
+    font-weight: 500;
+    padding-bottom: 60px;
+}
+
+.footer-div-1-h3{
+    font-size: 20px;
+    padding-bottom: 0%;
+}
+
+.footer-div-1-h4{
+    font-size: 10px;
+}
+
+.footer-div-1-p{
+    font-size: 20px;
+    padding-right: 350px;
+    padding-left: 350px;
+}
+
+.footer-div-2{
+    text-align: center;
+    background-image: linear-gradient(45deg,rgb(134, 167, 236) , lime);
+    font-size: 22px;
+    border-radius: 10px;
+    padding: 8px 12px;
+    margin-left: 400px;
+    margin-right: 400px;
+    color: white;
+}
+
+footer p{
+    text-align: center;
+    padding-top: 100px;
+}
+    
